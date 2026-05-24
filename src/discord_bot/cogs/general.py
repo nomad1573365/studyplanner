@@ -32,7 +32,7 @@ class GeneralCog(commands.Cog):
     @app_commands.command(name="about",description="このbotについて")
     async def about(self, interaction: discord.Interaction):
         s = """
-            StudyPlanner v1.0.0-Beta
+            StudyPlanner v1.0.0-Stable
             制作者: @のまど
             詳細: https://github.com/nomad1573365/studyplanner
         """
