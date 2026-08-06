@@ -3,6 +3,8 @@
 時間のかかるタスクを期日までに終わらすことに特化した学習支援DiscordBot(開発中)  
 簡単に言うと、参考書を終わらせるという大きな目標を、週、日と身近なものにするものです
 
+<img width="838" height="1132" alt="StudyPlanner_img" src="https://github.com/user-attachments/assets/98a3723d-7474-4be5-a5ff-edb5db55ebaf" />
+
 ## 主な機能
 - **簡単に記録**: DMに生成されるダッシュボードで簡単に進捗を記録。
 - **目標を管理**: `/make_goal` で参考書の総ページ数と期限を設定。
